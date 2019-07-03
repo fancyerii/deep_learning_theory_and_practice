@@ -21,13 +21,15 @@
 [自动求导](https://fancyerii.github.io/books/autodiff/)
 
 ### 第三章
-为了便于读者理解，作者先介绍了CNN、RNN等模型之后再介绍Tensorflow和PyTorch等工具。但是为了在介绍理论的同时也能了解它的基本用法，所以在这一章就需要读者了解基本的Tensorflow用法了，这就造成了"循环依赖"。因此这里的内容和后面的章节有一些重复，出版时把这部分去掉了，但是读者如果不了解Tensorflow的基本用法，可能无法了解本章的代码，所以建议没有Tensorflow基础的读者阅读一下这部分的内容。
+[Tensorflow简介](https://fancyerii.github.io/books/tf-for-cnn)，为了便于读者理解，作者先介绍了CNN、RNN等模型之后再介绍Tensorflow和PyTorch等工具。但是为了在介绍理论的同时也能了解它的基本用法，所以在这一章就需要读者了解基本的Tensorflow用法了，这就造成了"循环依赖"。因此这里的内容和后面的章节有一些重复，出版时把这部分去掉了，但是读者如果不了解Tensorflow的基本用法，可能无法了解本章的代码，所以建议没有Tensorflow基础的读者阅读一下这部分的内容。
 
-[Tensorflow简介](https://fancyerii.github.io/books/tf-for-cnn)。
 
 ### 第四章
 
 [用Numpy实现vanilla RNN](https://fancyerii.github.io/books/rnn-codes/)，这个补充材料介绍怎么使用Numpy(而不借助其它深度学习框架]实现最简单的RNN，并且用这个RNN来训练莎士比亚风格的语言模型。通过这个材料，读者可以了解到RNN前向技术的具体步骤。
+
+[PyTorch简介](http://fancyerii.github.io/books/pytorch-for-rnn/)，为了便于读者理解，作者先介绍了CNN、RNN等模型之后再介绍Tensorflow和PyTorch等工具。但是为了在介绍理论的同时也能了解它的基本用法，所以在这一章就需要读者了解基本的Tensorflow用法了，这就造成了”循环依赖”。因此这里的内容和后面的章节有一些重复，出版时把这部分去掉了，但是读者如果不了解PyTorch的基本用法，可能无法了解本章的代码，所以建议没有PyTorch基础的读者阅读一下这部分的内容。
+
 
 
 ## 资料
