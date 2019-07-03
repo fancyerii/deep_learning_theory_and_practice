@@ -25,6 +25,11 @@
 
 [Tensorflow简介](https://fancyerii.github.io/books/tf-for-cnn)。
 
+### 第四章
+
+[用Numpy实现vanilla RNN](https://fancyerii.github.io/books/rnn-codes/)，这个补充材料介绍怎么使用Numpy(而不借助其它深度学习框架]实现最简单的RNN，并且用这个RNN来训练莎士比亚风格的语言模型。通过这个材料，读者可以了解到RNN前向技术的具体步骤。
+
+
 ## 资料
 
 
