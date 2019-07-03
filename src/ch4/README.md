@@ -10,3 +10,12 @@ python rnn.py
 jupyter notebook
 # 选择PyTorch-CNN.ipynb
 ```
+
+
+## 使用RNN实现姓名分类
+
+```
+jupyter notebook
+# 选择char-rnn-classifier.ipynb
+```
+
