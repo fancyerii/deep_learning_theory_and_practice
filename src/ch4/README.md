@@ -3,3 +3,10 @@
 ```
 python rnn.py 
 ```
+
+## 使用PyTorch实现CNN
+
+```
+jupyter notebook
+# 选择PyTorch-CNN.ipynb
+```
