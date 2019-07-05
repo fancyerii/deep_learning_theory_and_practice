@@ -1,6 +1,6 @@
 # 《深度学习理论与实战：基础篇》
 
-<a name='book'>![](./1.jpg)</a>
+<img src="1.jpg" alt="drawing" width="50%"/>
 
 目前在京东的电子工业出版社的[官方旗舰店](https://item.jd.com/51463819210.html)有售。
 
