@@ -25,3 +25,20 @@ jupyter notebook
 jupyter notebook
 # 选择char-rnn-generator.ipynb
 ```
+
+
+
+## 使用seq2seq+attention实现法语到英语的翻译
+
+```
+jupyter notebook
+# 选择seq2seq-translation.ipynb
+```
+
+
+## batch版本的中文到英语的翻译
+
+```
+jupyter notebook
+# 选择seq2seq-translation-batched-cn.ipynb
+```
