@@ -2,7 +2,7 @@
 
 <img src="1.jpg" alt="drawing" width="50%"/>
 
-目前在京东的电子工业出版社的[官方旗舰店](https://item.jd.com/51463819210.html)有售。
+目前在[京东](https://item.jd.com/12543405.html)有售。
 
 本网站是电子工业出版社出版的《深度学习理论与实战：基础篇》的相关资料，包括随书源代码、补充资料和勘误表等内容。
 ### [《深度学习理论与实战：提高篇》](https://fancyerii.github.io/2019/03/14/dl-book/)
